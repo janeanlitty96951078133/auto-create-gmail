@@ -1,4 +1,4 @@
-# 📧 Auto-Create-Gmail – Gmail Account Generator [Free] May 2026
+# 📧 Auto Create Gmail – Gmail Account Generator [Free] May 2026
 
 <p align="center">
   <img src="https://img.shields.io/badge/Downloads-89K+-5865F2?style=for-the-badge&logo=github" />
